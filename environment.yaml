@@ -1,0 +1,18 @@
+name: skncd
+channels:
+  - pytorch
+  - defaults
+dependencies:
+  - cudatoolkit=11.0
+  - numpy=1.24.3
+  - pip=23.0.1
+  - python=3.8
+  - pytorch=1.7.1
+  - scikit-learn=1.2.2
+  - scipy=1.10.1
+  - torchvision=0.8.2
+  - wheel=0.38.4
+  - pip:
+      - lightning-bolts==0.3.0
+      - pydevd-pycharm==213.6777.52
+      - pytorch-lightning==1.1.3

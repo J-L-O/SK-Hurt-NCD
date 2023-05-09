@@ -5,8 +5,11 @@ This repository contains the code for our TMLR paper
 > **Supervised Knowledge May Hurt Novel Class Discovery Performance**<br>
 > Ziyun Li, Jona Otholt, Ben Dai, Di Hu, Christoph Meinel, Haojin Yang
 
-### Abstract
+> **Purely self supervised learning may outperform supervised learning in NCD
+> <img width="1134" alt="image" src="https://user-images.githubusercontent.com/8895593/237053158-de151857-d87c-4457-9c68-46964a4bd7e4.png">
 
+<!-- 
+### Abstract
 > Novel class discovery (NCD) aims to infer novel categories in an unlabeled dataset by
 leveraging prior knowledge of a labeled set comprising disjoint but related classes. Given that
 most existing literature focuses primarily on utilizing supervised knowledge from a labeled
@@ -27,7 +30,7 @@ supervised knowledge is beneficial. Finally, we develop a pseudo-version of the 
 flow as a practical reference to decide if supervised knowledge should be used in NCD. Its
 effectiveness is supported by our empirical studies, which show that the pseudo transfer flow
 (with or without supervised knowledge) is consistent with the corresponding accuracy based
-on various datasets.
+on various datasets. -->
 
 ### Installation
 

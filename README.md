@@ -5,7 +5,7 @@ This repository contains the code for our TMLR paper
 > **Supervised Knowledge May Hurt Novel Class Discovery Performance**<br>
 > Ziyun Li, Jona Otholt, Ben Dai, Di Hu, Christoph Meinel, Haojin Yang
 
-> **Purely self supervised learning may outperform supervised learning in NCD
+> **Purely self supervised learning may outperform supervised learning in NCD**<br>
 > <img width="1134" alt="image" src="https://user-images.githubusercontent.com/8895593/237053158-de151857-d87c-4457-9c68-46964a4bd7e4.png">
 
 <!-- 

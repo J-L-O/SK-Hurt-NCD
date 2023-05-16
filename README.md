@@ -32,6 +32,9 @@ effectiveness is supported by our empirical studies, which show that the pseudo 
 (with or without supervised knowledge) is consistent with the corresponding accuracy based
 on various datasets. -->
 
+To make our proposed benchmark more accessible to other researchers, we also provide
+it as a standalone package at https://github.com/J-L-O/NCDSimilarityBench.
+
 ### Installation
 
 We provide a conda environment file for installing the dependencies. To install the
